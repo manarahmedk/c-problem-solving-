@@ -6,8 +6,7 @@ int main(){
 	cin>>counter;
 	for(int i=1;i<=counter;i++){
 		int number;
-
-			cin>>number;
+		cin>>number;
 			if(number%2==0){
 				even++;
 			} 
